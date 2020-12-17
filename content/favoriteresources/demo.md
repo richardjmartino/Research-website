@@ -1,43 +1,83 @@
----
-# An instance of the Blank widget.
-# Documentation: https://sourcethemes.com/academic/docs/page-builder/
-widget: blank
++++
+# A Demo section created with the Blank widget.
+# Any elements can be added in the body: https://wowchemy.com/docs/writing-markdown-latex/
+# Add more sections by duplicating this file and customizing to your requirements.
 
-# Activate this widget? true/false
-active: false
+widget = "blank"  # See https://wowchemy.com/docs/page-builder/
+headless = true  # This file represents a page section.
+active = true  # Activate this widget? true/false
+weight = 15  # Order that this section will appear.
 
-# This file represents a page section.
-headless: true
+title = "Favorite Resources"
+subtitle = ""
 
-# Order that this section appears on the page.
-weight: 15
+[design]
+  # Choose how many columns the section has. Valid values: 1 or 2.
+  columns = "1"
 
-title: Demos
-subtitle:
+[design.background]
+  # Apply a background color, gradient, or image.
+  #   Uncomment (by removing `#`) an option to apply it.
+  #   Choose a light or dark text color by setting `text_color_light`.
+  #   Any HTML color name or Hex value is valid.
 
-design:
-  columns: "1"
-  background:
-    image: headers/bubbles-wide.jpg
-    image_darken: 0.6
-    image_parallax: true
-    image_position: center
-    image_size: cover
-    text_color_light: true
-  spacing:
-    padding: ["20px", "0", "20px", "0"]
----
+  # Background color.
+  # color = "navy"
+  
+  # Background gradient.
+  gradient_start = "Green"
+  gradient_end = "ForestGreen"
+  
+  # Background image.
+  # image = "image.jpg"  # Name of image in `static/media/`.
+  # image_darken = 0.6  # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque.
+  # image_size = "cover"  #  Options are `cover` (default), `contain`, or `actual` size.
+  # image_position = "center"  # Options include `left`, `center` (default), or `right`.
+  # image_parallax = true  # Use a fun parallax-like fixed background effect? true/false
+  
+  # Text color (true=light or false=dark).
+  text_color_light = true
 
-Welcome to the demo of the **resumé template** for Academic.
+[design.spacing]
+  # Customize the section spacing. Order is top, right, bottom, left.
+  padding = ["20px", "0", "20px", "0"]
 
-[View more templates](https://sourcethemes.com/academic/templates/) for Academic.
+[advanced]
+ # Custom CSS. 
+ css_style = ""
+ 
+ # CSS class.
+ css_class = ""
++++
 
-**Over 500,000 [Amazing Websites](https://sourcethemes.com/academic/) have Already Been Built with Academic**
+## **My favorite resources that are open-sourced or free to use:**
 
-**[Join](https://sourcethemes.com/academic/docs/install/) the Most Empowered Hugo Community**
+[Check out the latest demo](https://academic-demo.netlify.app) of what you'll get in less than 10 minutes, or [view the showcase](https://wowchemy.com/user-stories/).
 
-{{% alert note %}}
+[**Wowchemy**](https://wowchemy.com) makes it easy to create a beautiful website for free. Edit your site in Markdown, Jupyter, or RStudio (via Blogdown), generate it with Hugo, and deploy with GitHub or Netlify. Customize anything on your site with widgets, themes, and language packs.
+
+## Data Analytics and Citations
+
+- [R Studio](https://rstudio.com/)
+- [Zotero](https://www.zotero.org/)
+- 💬 [Chat with the **Wowchemy community**](https://discord.gg/z8wNYzb) or [**Hugo community**](https://discourse.gohugo.io)
+
+## Literature Review
+
+- Our Research
+
+## ADD OTHER FIREFOX
+
+## Make your own website
+
+- [Amazing Guide by Dan Quintana](https://www.dsquintana.blog/create-an-academic-website-free-easy-2020/)
+- [Github](https://github.com/)
+
+
+{{% callout note %}}
 This homepage section is an example of adding [elements](https://sourcethemes.com/academic/docs/writing-markdown-latex/) to the [*Blank* widget](https://sourcethemes.com/academic/docs/widgets/).
 
-Backgrounds can be applied to any section. Here, the *background* option is set give an *image parallax* effect.
-{{% /alert %}}
+Backgrounds can be applied to any section. Here, the *background* option is set give a *color gradient*.
+
+**To remove this section, delete `content/home/demo.md`.**
+{{% /callout %}}
