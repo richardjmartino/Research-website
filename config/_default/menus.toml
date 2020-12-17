@@ -9,6 +9,11 @@
   weight = 10
 
 [[main]]
+  name = "Favorites"  # Title of the link.
+  url = "favoriteprograms/"  # Widget Page folder name.
+  weight = 20  # Position of the link in the navigation bar.
+
+[[main]]
   name = "Publications"
   url = "#featured"
   weight = 40
