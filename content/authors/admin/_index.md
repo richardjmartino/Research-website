@@ -66,4 +66,5 @@ user_groups:
 - Visitors
 ---
 
- Updated bio coming soon.
+Richard J. Martino is an epidemiologist and data analyst at the Center for Health, Identity, Behavior, and Prevention Studies (CHIBPS) at Rutgers University. His research interests include TB/HIV, global health, social determinants of health, and LGBTQ+ health. 
+Please use the contact form below or reach out through Twitter if you would like to connect!
