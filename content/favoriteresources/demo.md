@@ -70,6 +70,7 @@ subtitle = ""
 - [Amazing Guide by Dan Quintana](https://www.dsquintana.blog/create-an-academic-website-free-easy-2020/)
 - [Github](https://github.com/)
 - [wowchemy](https://wowchemy.com/)
+- [Netlify](https://www.netlify.com/)
 
 <!---
 {{% callout note %}}
