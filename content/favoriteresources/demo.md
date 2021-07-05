@@ -65,8 +65,6 @@ subtitle = ""
 
 - [Our Research](https://ourresearch.org/)
 
-## ADD OTHER FIREFOX
-
 ## Make your own website
 
 - [Amazing Guide by Dan Quintana](https://www.dsquintana.blog/create-an-academic-website-free-easy-2020/)
