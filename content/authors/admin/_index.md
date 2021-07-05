@@ -10,8 +10,8 @@ role: Data Analyst
 
 # Organizations/Affiliations
 organizations:
-- name: Center for Health, Identity, Behavior, and Prevention Studies (CHIBPS)
-  url: "https://sph.rutgers.edu/centers/chibps"
+- name: Communities Tasmania
+  url: "https://www.communities.tas.gov.au/"
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include TB, HIV, and global health.
@@ -66,5 +66,5 @@ user_groups:
 - Visitors
 ---
 
-Richard J. Martino is an epidemiologist and data analyst at the Center for Health, Identity, Behavior, and Prevention Studies (CHIBPS) at Rutgers University. His research interests include TB/HIV, global health, social determinants of health, and LGBTQ+ health. 
+Richard J. Martino is an epidemiologist and data analyst. His research interests include TB/HIV, global health, social determinants of health, and LGBTQ+ health. 
 Please use the contact form below or reach out through Twitter if you would like to connect!

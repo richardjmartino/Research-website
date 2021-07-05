@@ -22,11 +22,11 @@ subtitle = ""
   #   Any HTML color name or Hex value is valid.
 
   # Background color.
-  # color = "navy"
+   color = "navy"
   
-  # Background gradient.
-  gradient_start = "Green"
-  gradient_end = "ForestGreen"
+ # Background gradient.
+  # gradient_start = "White"
+  # gradient_end = "ForestGreen"
   
   # Background image.
   # image = "image.jpg"  # Name of image in `static/media/`.
@@ -52,19 +52,18 @@ subtitle = ""
 
 ## **My favorite resources that are open-sourced or free to use:**
 
-[Check out the latest demo](https://academic-demo.netlify.app) of what you'll get in less than 10 minutes, or [view the showcase](https://wowchemy.com/user-stories/).
-
-[**Wowchemy**](https://wowchemy.com) makes it easy to create a beautiful website for free. Edit your site in Markdown, Jupyter, or RStudio (via Blogdown), generate it with Hugo, and deploy with GitHub or Netlify. Customize anything on your site with widgets, themes, and language packs.
+<!---[Check out the latest demo](https://academic-demo.netlify.app) of what you'll get in less than 10 minutes, or [view the showcase](https://wowchemy.com/user-stories/). -->
 
 ## Data Analytics and Citations
 
 - [R Studio](https://rstudio.com/)
 - [Zotero](https://www.zotero.org/)
-- 💬 [Chat with the **Wowchemy community**](https://discord.gg/z8wNYzb) or [**Hugo community**](https://discourse.gohugo.io)
+<!---
+- 💬 [Chat with the **Wowchemy community**](https://discord.gg/z8wNYzb) or [**Hugo community**](https://discourse.gohugo.io) -->
 
 ## Literature Review
 
-- Our Research
+- [Our Research](https://ourresearch.org/)
 
 ## ADD OTHER FIREFOX
 
@@ -72,12 +71,13 @@ subtitle = ""
 
 - [Amazing Guide by Dan Quintana](https://www.dsquintana.blog/create-an-academic-website-free-easy-2020/)
 - [Github](https://github.com/)
+- [wowchemy](https://wowchemy.com/)
 
-
+<!---
 {{% callout note %}}
 This homepage section is an example of adding [elements](https://sourcethemes.com/academic/docs/writing-markdown-latex/) to the [*Blank* widget](https://sourcethemes.com/academic/docs/widgets/).
 
 Backgrounds can be applied to any section. Here, the *background* option is set give a *color gradient*.
 
 **To remove this section, delete `content/home/demo.md`.**
-{{% /callout %}}
+{{% /callout %}} -->
