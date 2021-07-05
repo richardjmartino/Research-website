@@ -69,5 +69,5 @@ user_groups:
 - Visitors
 ---
 
-Richard J. Martino is an epidemiologist and data analyst. His research interests include TB/HIV, global health, social determinants of health, and LGBTQ+ health. 
+Richard J. Martino is an epidemiologist and data analyst. His research interests include TB/HIV, global health, social determinants of health, and health disparities. 
 Please use the contact form below or reach out through Twitter if you would like to connect!
