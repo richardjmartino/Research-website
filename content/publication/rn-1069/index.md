@@ -1,20 +1,23 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: 'Characteristics Indicative of Tuberculosis/HIV Coinfection in a High-Burden
-  Setting: Lessons from 13,802 Incident Tuberculosis Cases in Harare, Zimbabwe'
+title: A Nationwide Survey of COVID-19 Testing in LGBTQ+ Populations in the United
+  States
 subtitle: ''
 summary: ''
 authors:
 - Richard J. Martino
-- Joconiah Chirenda
-- Hilda A. Mujuru
-- Wen Ye
-- Zhenhua Yang
+- Kristen D. Krause
+- Marybec Griffin
+- Caleb LoSchiavo
+- Camilla Comer-Carruthers
+- Anita G. Karr
+- Allie F. Bullock
+- Perry N. Halkitis
 tags: []
 categories: []
-date: '2020-01-01'
-lastmod: 2020-12-17T00:13:15-05:00
+date: '2021-01-01'
+lastmod: 2021-07-05T16:53:59+10:00
 featured: false
 draft: false
 
@@ -32,11 +35,11 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2020-12-17T05:13:15.341990Z'
+publishDate: '2021-07-05T06:53:58.817286Z'
 publication_types:
 - '2'
 abstract: ''
-publication: ''
-url_pdf: https://www.ajtmh.org/content/journals/10.4269/ajtmh.19-0856
-doi: 10.4269/ajtmh.19-0856
+publication: '*Public Health Reports*'
+url_pdf: https://journals.sagepub.com/doi/abs/10.1177/00333549211018190
+doi: 10.1177/00333549211018190
 ---

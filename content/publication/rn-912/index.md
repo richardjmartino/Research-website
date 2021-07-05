@@ -1,21 +1,20 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: 'Age of Sexual Debut among Young Gay-identified Sexual Minority Men: The P18
-  Cohort Study'
+title: 'Characteristics Indicative of Tuberculosis/HIV Coinfection in a High-Burden
+  Setting: Lessons from 13,802 Incident Tuberculosis Cases in Harare, Zimbabwe'
 subtitle: ''
 summary: ''
 authors:
-- Perry N. Halkitis
-- Caleb LoSchiavo
 - Richard J. Martino
-- Blas Martin De La Cruz
-- Christopher B. Stults
-- Kristen D. Krause
+- Joconiah Chirenda
+- Hilda A. Mujuru
+- Wen Ye
+- Zhenhua Yang
 tags: []
 categories: []
 date: '2020-01-01'
-lastmod: 2020-12-17T00:13:15-05:00
+lastmod: 2021-07-05T16:53:58+10:00
 featured: false
 draft: false
 
@@ -33,11 +32,11 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2020-12-17T05:13:10.383028Z'
+publishDate: '2021-07-05T06:53:57.988146Z'
 publication_types:
 - '2'
 abstract: ''
-publication: ''
-url_pdf: https://doi.org/10.1080/00224499.2020.1783505
-doi: 10.1080/00224499.2020.1783505
+publication: '*The American Journal of Tropical Medicine and Hygiene*'
+url_pdf: https://www.ajtmh.org/content/journals/10.4269/ajtmh.19-0856
+doi: 10.4269/ajtmh.19-0856
 ---
