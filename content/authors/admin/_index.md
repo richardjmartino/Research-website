@@ -10,7 +10,7 @@ role: Data Analyst
 
 # Organizations/Affiliations
 organizations:
-- name: Tasmania Department of Health
+- name: Tasmanian Department of Health
   url: "https://www.communities.tas.gov.au/"
 
 # Short bio (displayed in user profile at end of posts)
