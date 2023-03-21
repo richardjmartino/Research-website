@@ -10,14 +10,13 @@ role: Data Analyst
 
 # Organizations/Affiliations
 organizations:
-- name: Communities Tasmania
+- name: Tasmania Department of Health
   url: "https://www.communities.tas.gov.au/"
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include TB, HIV, and global health.
 
 interests:
-- TB / HIV
 - Epidemiology
 - Global Health
 
