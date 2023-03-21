@@ -19,7 +19,7 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
   title = "Epidemiologist / Senior Analyst"
-  company = "Tasmania Department of Health"
+  company = "Tasmanian Department of Health"
   company_url = ""
   location = "Hobart, Australia"
   date_start = "2023-02-01"
